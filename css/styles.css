@@ -132,7 +132,12 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#ricartho-franck-cover{
+  background-image: url("https://imgur.com/jfUK0Hg")
+}
+#ricartho-franck-card{
+ background-image: url("https://imgur.com/EyUTpfC") 
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
