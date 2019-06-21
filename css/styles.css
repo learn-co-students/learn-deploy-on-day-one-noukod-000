@@ -1,6 +1,14 @@
 /* GLOBAL STYLES
 ======================== */
 
+#firstname-lastname-cover {
+    background-image: 'https://i.imgur.com/zLO5p8Q.jpg';
+  }
+
+  #firstname-lastname-card {
+    background-image: 'https://i.imgur.com/wdr6qBO.jpg';
+  }
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
