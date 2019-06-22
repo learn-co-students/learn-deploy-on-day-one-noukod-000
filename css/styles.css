@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#alexandro-disla-card-cover {
+ background-image: url("../images/swe.jpg");
+}
+
+#alexandro-disla-card {
+ background-image: url("../images/ad.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -244,7 +252,7 @@ a:visited {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ background-image: url("../images/ad.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
